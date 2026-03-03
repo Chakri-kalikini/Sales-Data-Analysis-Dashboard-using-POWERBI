@@ -1,0 +1,41 @@
+Order_ID,Product,Category,Region,Sales,Quantity,Discount,Profit,Order_Date,Month,Month_Num,Quarter,Year,Revenue,Net_Profit,Profit_Margin
+1001,Laptop Pro,Technology,East,1200.0,2,0.1,300.0,2024-01-05,January,1,2024Q1,2024,2400.0,600.0,25.0
+1002,Office Chair,Furniture,West,450.0,1,0.0,90.0,2024-01-08,January,1,2024Q1,2024,450.0,90.0,20.0
+1003,Wireless Mouse,Technology,South,35.0,5,0.05,12.0,2024-01-10,January,1,2024Q1,2024,175.0,60.0,34.29
+1004,Notebook Set,Office Supplies,East,20.0,10,0.0,8.0,2024-01-12,January,1,2024Q1,2024,200.0,80.0,40.0
+1005,Standing Desk,Furniture,North,850.0,1,0.15,170.0,2024-01-15,January,1,2024Q1,2024,850.0,170.0,20.0
+1006,Usb Hub,Technology,West,45.0,3,0.0,15.0,2024-01-18,January,1,2024Q1,2024,135.0,45.0,33.33
+1007,Printer,Technology,South,320.0,1,0.1,64.0,2024-01-20,January,1,2024Q1,2024,320.0,64.0,20.0
+1008,Bookshelf,Furniture,East,200.0,2,0.0,50.0,2024-01-22,January,1,2024Q1,2024,400.0,100.0,25.0
+1009,Pen Pack,Office Supplies,North,15.0,20,0.0,6.0,2024-01-25,January,1,2024Q1,2024,300.0,120.0,40.0
+1010,Monitor,Technology,West,400.0,2,0.05,100.0,2024-01-28,January,1,2024Q1,2024,800.0,200.0,25.0
+1011,Keyboard,Technology,East,80.0,4,0.0,24.0,2024-02-02,February,2,2024Q1,2024,320.0,96.0,30.0
+1012,Desk Lamp,Office Supplies,South,30.0,6,0.0,9.0,2024-02-05,February,2,2024Q1,2024,180.0,54.0,30.0
+1013,Webcam,Technology,North,120.0,2,0.0,36.0,2024-02-08,February,2,2024Q1,2024,240.0,72.0,30.0
+1014,Filing Cabinet,Furniture,East,300.0,1,0.1,60.0,2024-02-10,February,2,2024Q1,2024,300.0,60.0,20.0
+1015,Headphones,Technology,West,150.0,3,0.05,45.0,2024-02-14,February,2,2024Q1,2024,450.0,135.0,30.0
+1016,Stapler,Office Supplies,South,18.0,8,0.0,5.4,2024-02-16,February,2,2024Q1,2024,144.0,43.2,30.0
+1017,Gaming Chair,Furniture,North,700.0,1,0.0,140.0,2024-02-18,February,2,2024Q1,2024,700.0,140.0,20.0
+1018,Tablet,Technology,East,500.0,2,0.1,100.0,2024-02-20,February,2,2024Q1,2024,1000.0,200.0,20.0
+1019,Whiteboard,Office Supplies,West,90.0,2,0.0,27.0,2024-02-23,February,2,2024Q1,2024,180.0,54.0,30.0
+1020,Laptop Stand,Technology,South,60.0,5,0.0,18.0,2024-02-26,February,2,2024Q1,2024,300.0,90.0,30.0
+1021,Sofa,Furniture,North,1100.0,1,0.05,220.0,2024-03-01,March,3,2024Q1,2024,1100.0,220.0,20.0
+1022,Ssd Drive,Technology,East,130.0,4,0.0,39.0,2024-03-04,March,3,2024Q1,2024,520.0,156.0,30.0
+1023,Scissors Set,Office Supplies,West,12.0,15,0.0,4.2,2024-03-07,March,3,2024Q1,2024,180.0,63.0,35.0
+1024,Projector,Technology,South,750.0,1,0.1,150.0,2024-03-10,March,3,2024Q1,2024,750.0,150.0,20.0
+1025,Coffee Table,Furniture,North,400.0,1,0.0,80.0,2024-03-13,March,3,2024Q1,2024,400.0,80.0,20.0
+1026,Router,Technology,East,90.0,3,0.05,27.0,2024-03-15,March,3,2024Q1,2024,270.0,81.0,30.0
+1027,Notepad,Office Supplies,West,8.0,25,0.0,2.4,2024-03-18,March,3,2024Q1,2024,200.0,60.0,30.0
+1028,External Hdd,Technology,South,100.0,3,0.0,30.0,2024-03-20,March,3,2024Q1,2024,300.0,90.0,30.0
+1029,Bookcase,Furniture,North,280.0,2,0.1,56.0,2024-03-23,March,3,2024Q1,2024,560.0,112.0,20.0
+1030,Smartwatch,Technology,East,250.0,2,0.05,62.5,2024-03-26,March,3,2024Q1,2024,500.0,125.0,25.0
+1031,Desk Organizer,Office Supplies,West,25.0,10,0.0,7.5,2024-04-01,April,4,2024Q2,2024,250.0,75.0,30.0
+1032,Smartphone,Technology,South,900.0,2,0.0,225.0,2024-04-04,April,4,2024Q2,2024,1800.0,450.0,25.0
+1033,Lounge Chair,Furniture,North,600.0,1,0.1,120.0,2024-04-07,April,4,2024Q2,2024,600.0,120.0,20.0
+1034,Speaker,Technology,East,180.0,3,0.05,45.0,2024-04-10,April,4,2024Q2,2024,540.0,135.0,25.0
+1035,Binder Set,Office Supplies,West,22.0,12,0.0,6.6,2024-04-14,April,4,2024Q2,2024,264.0,79.19999999999999,30.0
+1036,Smart Tv,Technology,South,1400.0,1,0.0,350.0,2024-04-17,April,4,2024Q2,2024,1400.0,350.0,25.0
+1037,Wardrobe,Furniture,North,950.0,1,0.0,190.0,2024-04-20,April,4,2024Q2,2024,950.0,190.0,20.0
+1038,Power Bank,Technology,East,55.0,6,0.0,16.5,2024-04-23,April,4,2024Q2,2024,330.0,99.0,30.0
+1039,Tape Dispenser,Office Supplies,West,10.0,20,0.0,3.0,2024-04-26,April,4,2024Q2,2024,200.0,60.0,30.0
+1040,Drone,Technology,South,800.0,1,0.15,160.0,2024-04-29,April,4,2024Q2,2024,800.0,160.0,20.0
